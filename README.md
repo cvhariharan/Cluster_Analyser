@@ -1,8 +1,8 @@
+# Cluster Analyser
+Using cluster_analyser is very easy.
+The training data should be labelled and it should be in csv format. 
 
-Using the cluster_analyser is very easy.
-The training data should be labelled for training and it should be in csv format. 
-
-## How To Use?
+## Instructions
 Include the "cluster_analyser.php" in your script and call the "algo" function.
 ```
 <?php
